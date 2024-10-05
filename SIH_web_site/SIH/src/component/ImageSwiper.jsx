@@ -11,7 +11,7 @@ import './ImageSwiper.css';
 
 // import required modules
 import { EffectCoverflow, Pagination } from 'swiper/modules';
-import Card from './card';
+import Card from './Card';
 
 export default function ImageSwiper() {
   return (
