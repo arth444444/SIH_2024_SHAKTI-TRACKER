@@ -1,4 +1,4 @@
-import Serviceschart from '../charts/Serviceschart';
+import ServicesChart from '../charts/ServicesChart';
 
 function Services() {
   return (
@@ -10,7 +10,7 @@ function Services() {
           </div>
           {/* Chart container */}
           <div className="flex-grow flex items-center justify-center ">
-            <Serviceschart />
+            <ServicesChart />
           </div>
         </div>
       </div>
